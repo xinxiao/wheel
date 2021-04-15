@@ -1,17 +1,35 @@
 {
   "files": {
+    "static/js/0.82b5224b.chunk.js": "https://wheel.xinx.me/static/js/0.82b5224b.chunk.js",
     "main.css": "https://wheel.xinx.me/static/css/main.8b5fefc0.chunk.css",
-    "main.js": "https://wheel.xinx.me/static/js/main.c5d35e27.chunk.js",
-    "runtime-main.js": "https://wheel.xinx.me/static/js/runtime-main.8c30f5f8.js",
-    "static/js/2.f79ef086.chunk.js": "https://wheel.xinx.me/static/js/2.f79ef086.chunk.js",
-    "static/js/3.c0607181.chunk.js": "https://wheel.xinx.me/static/js/3.c0607181.chunk.js",
+    "main.js": "https://wheel.xinx.me/static/js/main.8388bbaf.chunk.js",
+    "runtime-main.js": "https://wheel.xinx.me/static/js/runtime-main.9d58abf6.js",
+    "static/js/3.3fe6c485.chunk.js": "https://wheel.xinx.me/static/js/3.3fe6c485.chunk.js",
+    "static/js/4.e39f5295.chunk.js": "https://wheel.xinx.me/static/js/4.e39f5295.chunk.js",
+    "static/js/5.9a3139f4.chunk.js": "https://wheel.xinx.me/static/js/5.9a3139f4.chunk.js",
+    "static/js/6.74c0dd3d.chunk.js": "https://wheel.xinx.me/static/js/6.74c0dd3d.chunk.js",
+    "static/js/7.8b80a57e.chunk.js": "https://wheel.xinx.me/static/js/7.8b80a57e.chunk.js",
+    "static/js/8.4c4bf0ed.chunk.js": "https://wheel.xinx.me/static/js/8.4c4bf0ed.chunk.js",
+    "static/js/9.48b8dca3.chunk.js": "https://wheel.xinx.me/static/js/9.48b8dca3.chunk.js",
+    "static/js/10.f301ef17.chunk.js": "https://wheel.xinx.me/static/js/10.f301ef17.chunk.js",
+    "static/js/11.d68e3ccb.chunk.js": "https://wheel.xinx.me/static/js/11.d68e3ccb.chunk.js",
+    "static/js/12.f45f785c.chunk.js": "https://wheel.xinx.me/static/js/12.f45f785c.chunk.js",
     "index.html": "https://wheel.xinx.me/index.html",
-    "static/js/2.f79ef086.chunk.js.LICENSE.txt": "https://wheel.xinx.me/static/js/2.f79ef086.chunk.js.LICENSE.txt"
+    "static/js/0.82b5224b.chunk.js.LICENSE.txt": "https://wheel.xinx.me/static/js/0.82b5224b.chunk.js.LICENSE.txt",
+    "static/js/10.f301ef17.chunk.js.LICENSE.txt": "https://wheel.xinx.me/static/js/10.f301ef17.chunk.js.LICENSE.txt",
+    "static/js/11.d68e3ccb.chunk.js.LICENSE.txt": "https://wheel.xinx.me/static/js/11.d68e3ccb.chunk.js.LICENSE.txt",
+    "static/js/3.3fe6c485.chunk.js.LICENSE.txt": "https://wheel.xinx.me/static/js/3.3fe6c485.chunk.js.LICENSE.txt",
+    "static/js/4.e39f5295.chunk.js.LICENSE.txt": "https://wheel.xinx.me/static/js/4.e39f5295.chunk.js.LICENSE.txt",
+    "static/js/5.9a3139f4.chunk.js.LICENSE.txt": "https://wheel.xinx.me/static/js/5.9a3139f4.chunk.js.LICENSE.txt",
+    "static/js/6.74c0dd3d.chunk.js.LICENSE.txt": "https://wheel.xinx.me/static/js/6.74c0dd3d.chunk.js.LICENSE.txt",
+    "static/js/7.8b80a57e.chunk.js.LICENSE.txt": "https://wheel.xinx.me/static/js/7.8b80a57e.chunk.js.LICENSE.txt",
+    "static/js/8.4c4bf0ed.chunk.js.LICENSE.txt": "https://wheel.xinx.me/static/js/8.4c4bf0ed.chunk.js.LICENSE.txt",
+    "static/js/9.48b8dca3.chunk.js.LICENSE.txt": "https://wheel.xinx.me/static/js/9.48b8dca3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c30f5f8.js",
-    "static/js/2.f79ef086.chunk.js",
+    "static/js/runtime-main.9d58abf6.js",
+    "static/js/3.3fe6c485.chunk.js",
     "static/css/main.8b5fefc0.chunk.css",
-    "static/js/main.c5d35e27.chunk.js"
+    "static/js/main.8388bbaf.chunk.js"
   ]
 }
